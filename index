@@ -10,7 +10,7 @@
 
 #define RED_PIN3 2      // where the red pin is connected to
 #define GREEN_PIN3 3   // where the green pin is connected to
-#define BLUE_PIN3 4
+#define BLUE_PIN3 4    // where the blue pin is connected to
 
 //#define STAR for H-bridge motor? 
 
